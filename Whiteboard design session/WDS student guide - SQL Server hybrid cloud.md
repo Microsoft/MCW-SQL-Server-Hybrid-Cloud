@@ -167,7 +167,7 @@ Directions: With all participants at your table, answer the following questions 
 
 2.  What customer business needs do you need to address with your solution?
 
-**Design **
+**Design**
 
 Directions: With all participants at your table, respond to the following questions on a flip chart.
 
