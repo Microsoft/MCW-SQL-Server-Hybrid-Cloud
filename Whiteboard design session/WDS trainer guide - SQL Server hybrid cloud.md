@@ -160,7 +160,7 @@ When participants are doing activities, you can **look ahead to refresh your mem
 
 **Involve your participants.** Talk and share your knowledge but always involve your participants, even while you are the one speaking.
 
-**Ask questions** and get them to share to fully involve your group in the learning process
+**Ask questions** and get them to share to fully involve your group in the learning process.
 
 **Ask first**, whenever possible. Before launching into a topic, learn your audience's opinions about it and experiences with it. Asking first enables you to assess their level of knowledge and experience, and leaves them more open to what you are presenting.
 
@@ -288,7 +288,7 @@ Directions: With all participants at your table, answer the following questions 
 
 2.  What customer business needs do you need to address with your solution?
 
-**Design **
+**Design**
 
 Directions: With all participants at your table, respond to the following questions on a flip chart.
 
